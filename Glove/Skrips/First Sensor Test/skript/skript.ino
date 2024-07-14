@@ -5,8 +5,8 @@
 
 Adafruit_MPU6050 mpu;
 
-const char* ssid = "Holy1a";
-const char* password = "Mirsindiewogwinnewelle23";
+const char* ssid = "SSID";
+const char* password = "PW";
 
 void setup() {
   Serial.begin(115200);
